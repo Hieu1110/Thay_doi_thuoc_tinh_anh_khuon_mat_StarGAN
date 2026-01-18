@@ -1,11 +1,11 @@
 # DATN_StarGAN
-**Đồ án tốt nghiệp – Ứng dụng StarGAN cho bài toán thay đổi thuộc tính khuôn mặt**
+**Đồ án tốt nghiệp – Xây dựng ứng dụng thay đổi thuộc tính ảnh khuôn mặt dựa trên mô hình StarGAN**
 
 ---
 
 ## 1. Giới thiệu
 
-Repository này chứa toàn bộ mã nguồn phục vụ đồ án tốt nghiệp với mục tiêu **nghiên cứu, huấn luyện, đánh giá và triển khai mô hình StarGAN cho bài toán thay đổi thuộc tính khuôn mặt người** (Facial Attribute Manipulation) trên tập dữ liệu CelebA.
+Repository này chứa toàn bộ mã nguồn phục vụ đồ án tốt nghiệp với mục tiêu **nghiên cứu, huấn luyện, đánh giá và triển khai mô hình StarGAN cho bài toán thay đổi thuộc tính ảnh khuôn mặt người** (Facial Attribute Manipulation) trên tập dữ liệu CelebA.
 
 Nội dung của repository được tổ chức theo đúng quy trình nghiên cứu thực nghiệm, bao gồm:
 - Huấn luyện mô hình StarGAN theo nhiều giai đoạn dựa trên checkpoint,
